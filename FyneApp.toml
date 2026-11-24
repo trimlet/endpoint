@@ -3,4 +3,4 @@ Icon = "assets/icon.png"
 Name = "Trimlet Endpoint"
 ID = "local.trimletendpoint"
 Version = "0.1.0"
-Build = 133
+Build = 135
